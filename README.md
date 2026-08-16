@@ -32,7 +32,8 @@ This project was developed as part of Frontend Development Using AI Hackathon 20
 
 🏠 Home Page
 
-screenshots/H home page.png
+![Uploading H home page.png…]()
+
 
 📤 Upload Document
 
