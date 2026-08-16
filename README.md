@@ -1,87 +1,135 @@
-# 🧠 AI-Powered Personal Document Hub
+🧠 AI-Powered Personal Document Hub
 
-> **A smart digital document workspace that organizes personal documents, extracts important information, and helps users quickly understand and manage them through an AI-powered interface.**
+A smart digital document workspace that organizes personal documents, extracts important information, and helps users quickly understand and manage them through an AI-powered interface.
 
-## 🚀 About the Project
+🚀 About the Project
 
-**DOCUAI Intelligence** is an AI-powered personal document workspace designed to make document management easier, faster, and more intelligent.
+DOCUAI Intelligence is an AI-powered personal document workspace designed to make document management easier, faster, and more intelligent.
 
-The application provides a modern interface where users can work with personal documents and quickly understand important information extracted from them. Instead of manually searching through documents, users can view structured document insights such as document type, personal details, important dates, document numbers, and summaries.
+The application provides a modern interface where users can work with personal documents and quickly understand important information extracted from them.
 
-This project was developed as part of **Frontend Development Using AI Hackathon 2026**.
+Instead of manually searching through documents, users can view structured document insights such as document type, personal details, important dates, document numbers, and summaries.
 
-## ✨ Key Features
+This project was developed as part of Frontend Development Using AI Hackathon 2026.
 
-* 📄 **Document Understanding** – Helps identify and understand uploaded documents.
-* 🧠 **AI-Powered Insights** – Extracts important information from documents.
-* 🔍 **Structured Information** – Displays detected details in an easy-to-read format.
-* 📋 **Document Summary** – Provides a quick summary of important document information.
-* 🎨 **Modern Dashboard** – Clean and user-friendly document workspace.
-* 📱 **Responsive Interface** – Designed to work across different screen sizes.
-* ⚡ **Fast React Interface** – Built using React and Vite for a responsive frontend experience.
+✨ Key Features
 
-## 🖥️ Application Preview
+📄 Document Understanding – Helps identify and understand uploaded documents.
 
-The application includes a **DOCUAI Intelligence** dashboard that presents document insights in a structured format, including:
+🧠 AI-Powered Insights – Extracts important information from documents.
 
-* Document Type
-* Name
-* Father's Name
-* Date of Birth
-* Document Number
-* Gender
-* Address
-* Document Summary
+🔍 Structured Information – Displays detected details in an easy-to-read format.
 
-## 📸 Screenshots
+📋 Document Summary – Provides a quick summary of important document information.
 
-Add your project screenshots to the `screenshots` folder in this repository and display them here.
+🎨 Modern Dashboard – Clean and user-friendly document workspace.
 
-###  H Home Page
-![H Home Page](screenshots/H Home Page.png)
+📱 Responsive Interface – Designed to work across different screen sizes.
 
-###  H upload document
-![ H upload document](screenshots/H upload document.png)
+⚡ Fast React Interface – Built using React and Vite for a responsive frontend experience.
 
-### H features 
-![H features ](screenshots/H features .png)
+📸 Screenshots
 
-### H document
-![ H document ](screenshots/ H document .png)
+🏠 Home Page
 
-### H document Summary
-![ H document Summary](screenshots/ H document Summary.png)
+screenshots/H home page.png
 
-### H document details
-![ H document details](screenshots/ H document details.png)
+📤 Upload Document
 
-### H document Ai Analysis
-![  H document Ai Analysis](screenshots/  H document Ai Analysis.png)
+screenshots/H upload document.png
 
-### H date
-![  H date](screenshots/ H date.png)
+🧠 Document AI Analysis
+
+screenshots/H document Ai Analysis.png
+
+📋 Document Details
+
+screenshots/H document details.png
+
+📄 Document Summary
+
+screenshots/H document Summary.png
+
+🗂️ Documents
+
+screenshots/H documents.png
+
+⚙️ Features
+
+screenshots/H features.png
+
+📅 Important Dates
+
+screenshots/H date.png
+
+🖥️ Application Preview
+
+The application includes a DOCUAI Intelligence dashboard that presents document insights in a structured format, including:
+
+Document Type
+
+Name
+
+Father's Name
+
+Date of Birth
+
+Document Number
+
+Gender
+
+Address
+
+Document Summary
+
+🛠️ Tech Stack
+
+Technology
+
+Purpose
+
+React
+
+Frontend development
+
+Vite
+
+Development and build tool
+
+JavaScript
+
+Application logic
+
+HTML5
+
+Application structure
+
+CSS3
+
+Styling and responsive design
+
+AI-assisted development
+
+Document intelligence and development workflow
+
+Git & GitHub
+
+Version control and project hosting
 
 
+📂 Project Structure
 
-
-
-## 🛠️ Tech Stack
-
-| Technology              | Purpose                                        |
-| ----------------------- | ---------------------------------------------- |
-| React                   | Frontend development                           |
-| Vite                    | Development and build tool                     |
-| JavaScript              | Application logic                              |
-| HTML5                   | Application structure                          |
-| CSS3                    | Styling and responsive design                  |
-| AI-assisted development | Document intelligence and development workflow |
-| Git & GitHub            | Version control and project hosting            |
-
-## 📂 Project Structure
-
-```text
 docuai/
 ├── public/
+├── screenshots/
+│   ├── H date.png
+│   ├── H document Ai Analysis.png
+│   ├── H document details.png
+│   ├── H document Summary.png
+│   ├── H documents.png
+│   ├── H features.png
+│   ├── H home page.png
+│   └── H upload document.png
 ├── src/
 │   ├── assets/
 │   ├── App.css
@@ -93,102 +141,98 @@ docuai/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
 
-## ⚙️ Getting Started
+⚙️ Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 
-```bash
 git clone https://github.com/SnehaHiremath-859/docuai.git
-```
 
-### 2. Navigate to the project
+2. Navigate to the project
 
-```bash
 cd docuai
-```
 
-### 3. Install dependencies
+3. Install dependencies
 
-```bash
 npm install
-```
 
-### 4. Start the development server
+4. Start the development server
 
-```bash
 npm run dev
-```
 
 The application will normally be available at:
 
-```text
 http://localhost:5173/
-```
 
-> **Note:** This is a local development URL and is not a public live website.
+Note: This is a local development URL and is not a public live website.
 
-## 🌐 Live Demo
+🌐 Live Demo
 
-**Live Demo:** Add your Vercel deployment URL here after deployment.
+Live Demo: Add your Vercel deployment URL here after deployment.
 
-Example:
-
-```text
-https://your-project-name.vercel.app/
-```
-
-## 🎯 Problem Statement
+🎯 Problem Statement
 
 Managing personal documents can be time-consuming when users need to manually search for important information.
 
 DOCUAI addresses this problem by providing an intelligent digital workspace that presents relevant document information in a clear and structured way.
 
-## 💡 Proposed Solution
+💡 Proposed Solution
 
 DOCUAI combines a modern web interface with AI-assisted document understanding to help users:
 
-1. Organize their documents.
-2. Identify document types.
-3. Extract important information.
-4. View structured document insights.
-5. Understand documents more quickly.
-6. Manage personal document information through a single workspace.
+Organize their documents.
 
-## 🔮 Future Improvements
+Identify document types.
 
-* Secure cloud document storage
-* User authentication
-* Multiple document formats
-* Advanced OCR processing
-* AI-powered question answering
-* Automatic document categorization
-* Search and filtering
-* Document expiry reminders
-* Secure document sharing
-* Database integration
+Extract important information.
 
-## 🏆 Hackathon
+View structured document insights.
 
-**Frontend Development Using AI Hackathon 2026**
+Understand documents more quickly.
 
-### Project
+Manage personal document information through a single workspace.
 
-**AI-Powered Personal Document Hub**
+🔮 Future Improvements
 
-### Project Name
+Secure cloud document storage
 
-**DOCUAI Intelligence**
+User authentication
 
-## 👩‍💻 Participant
+Multiple document formats
 
-**Sneha Hampayya Hiremath**
+Advanced OCR processing
+
+AI-powered question answering
+
+Automatic document categorization
+
+Search and filtering
+
+Document expiry reminders
+
+Secure document sharing
+
+Database integration
+
+🏆 Hackathon
+
+Frontend Development Using AI Hackathon 2026
+
+Project
+
+AI-Powered Personal Document Hub
+
+Project Name
+
+DOCUAI Intelligence
+
+👩‍💻 Participant
+
+Sneha Hampayya Hiremath
 
 Computer Science and Engineering Student
 Web Development & AI Enthusiast
 
-## 📜 License
+📜 License
 
 This project was developed for educational and hackathon purposes.
-
